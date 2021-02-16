@@ -1,0 +1,1 @@
+<?php $get_id = isset($_GET['id']) ? $_GET['id'] : ''; ?>
