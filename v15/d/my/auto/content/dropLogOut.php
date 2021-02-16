@@ -1,1 +1,0 @@
-<?php echo '<div class="d-lg-none"> <div class="dropdown-divider"></div><ul class="nav nav-sub nav-sm nav-tabs nav-list-y-2"> <li class="nav-item"> <a class="nav-link text-primary" href="/"> <i class="bx bx-log-out-circle nav-icon bx-xs"></i> Log Out </a> </li></ul> </div>';
