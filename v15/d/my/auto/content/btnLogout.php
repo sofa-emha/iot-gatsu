@@ -1,0 +1,1 @@
+<?php echo '<div class="d-none d-lg-block"> <a class="btn btn-sm btn-outline-light" href="/"> <i class="icofont-logout nav-icon"></i> Log out </a> </div>';
